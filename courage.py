@@ -12,6 +12,6 @@ def print_anything(msg):
 print_anything("Am here at GIT")
 
 def  add_Num(num1, num2):
-	return num1 + num2:
+	return num1 + num2
 
 
