@@ -1,17 +1,21 @@
 print("Anything")
 
 def  print_hello():
-	print("Hello")
+    print("Hello")
 
 
 print_hello()
 
 def print_anything(msg):
-	print(msg)
+    print(msg)
 
 print_anything("Am here at GIT")
 
 def  add_Num(num1, num2):
-	return num1 + num2
+    return num1 + num2
+
+# this is a function to subtract two numbers
+def subtract_num(num1, num2):
+    return num1 - num2
 
 
